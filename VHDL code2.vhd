@@ -1,3 +1,4 @@
+-- PART 1 OF CODE
 ------------------------------------------------
 -- Company: 
 -- Engineer: 
@@ -49,7 +50,7 @@ Z3 <= (not X) and (not Y);
 end Behavioral;
 
 
-
+-- PART 2 OF CODE
 -------------------------------------------------------
 -- Company: 
 -- Engineer: 
